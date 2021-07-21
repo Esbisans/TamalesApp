@@ -289,8 +289,8 @@ export const App = () => {
     <div className="container">
       <div className="row">
         <div className="col-lg-12 text-center">
-          <h2 className="section-heading text-uppercase">Contact Us</h2>
-          <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h2 className="section-heading text-uppercase">Contactanos</h2>
+          <h3 className="section-subheading text-muted">Ofrecemos soporte al cliente</h3>
         </div>
       </div>
       <div className="row">
